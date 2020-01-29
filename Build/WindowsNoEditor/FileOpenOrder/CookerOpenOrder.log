@@ -1,0 +1,832 @@
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 0
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 2
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Textures/2DBackground.uasset" 3
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 4
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 5
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 6
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 7
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 8
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 9
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 10
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 11
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 12
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 13
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 14
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 15
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScroller/Sprites/Ledge.uasset" 16
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 17
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 18
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 19
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 20
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 21
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 22
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 23
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 24
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 25
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 26
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 27
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 28
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 29
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 30
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 31
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 32
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 33
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 34
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/blue.uasset" 35
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/blue_Sprite.uasset" 36
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 37
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/Explosion2.uasset" 38
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 39
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 40
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light2-2_2.uasset" 41
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light2-2_2_Sprite.uasset" 42
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light3-1_2.uasset" 43
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light3-1_2_Sprite.uasset" 44
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light_2.uasset" 45
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light_2_Sprite.uasset" 46
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light2-3.uasset" 47
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/blue.uasset" 48
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 49
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 50
+"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 51
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light2-2.uasset" 52
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light2-2_Sprite.uasset" 53
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light3-1.uasset" 54
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light3-1_Sprite.uasset" 55
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light.uasset" 56
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light_Sprite.uasset" 57
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light_Flipbook.uasset" 58
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/white.uasset" 59
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/white_Ring.uasset" 60
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/white_Ring_Sprite.uasset" 61
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/Explosion.uasset" 62
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/ExplosionLarge.uasset" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 65
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewMaterial.uasset" 66
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/bullet.uasset" 67
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/bullet_Sprite.uasset" 68
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/ribbon.uasset" 69
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/projectile.uasset" 70
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/dive-1.uasset" 71
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/dive-1_Sprite.uasset" 72
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/dive1.uasset" 73
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/particle_green.uasset" 74
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/NewMaterial.uasset" 75
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/greenpart.uasset" 76
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/MainGameUI.uasset" 77
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/10b.uasset" 78
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/10b_Sprite.uasset" 79
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/11b.uasset" 80
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/11b_Sprite.uasset" 81
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/1b.uasset" 82
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/1b_Sprite.uasset" 83
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/2b.uasset" 84
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/2b_Sprite.uasset" 85
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/3b.uasset" 86
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/3b_Sprite.uasset" 87
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/4b.uasset" 88
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/4b_Sprite.uasset" 89
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/5b.uasset" 90
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/5b_Sprite.uasset" 91
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/6b.uasset" 92
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/6b_Sprite.uasset" 93
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/7b.uasset" 94
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/7b_Sprite.uasset" 95
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/8b.uasset" 96
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/8b_Sprite.uasset" 97
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/9b.uasset" 98
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/9b_Sprite.uasset" 99
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/background.uasset" 100
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run1crouch.uasset" 101
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run1crouch_Sprite_0.uasset" 102
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/croushIDLE.uasset" 103
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloopSpriteSheet.uasset" 104
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloopSpriteSheet_Sprite_0.uasset" 105
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloopSpriteSheet_Sprite_1.uasset" 106
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloopSpriteSheet_Sprite_2.uasset" 107
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloop.uasset" 108
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/10.uasset" 109
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/10_Sprite.uasset" 110
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/11.uasset" 111
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/11_Sprite.uasset" 112
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/12.uasset" 113
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/12_Sprite.uasset" 114
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/13.uasset" 115
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/13_Sprite.uasset" 116
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/14.uasset" 117
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/14_Sprite.uasset" 118
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/1.uasset" 119
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/1_Sprite.uasset" 120
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/2.uasset" 121
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/2_Sprite.uasset" 122
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/3.uasset" 123
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/3_Sprite.uasset" 124
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/4.uasset" 125
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/4_Sprite.uasset" 126
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/5.uasset" 127
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/5_Sprite.uasset" 128
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/6.uasset" 129
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/6_Sprite.uasset" 130
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/7.uasset" 131
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/7_Sprite.uasset" 132
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/8.uasset" 133
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/8_Sprite.uasset" 134
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/9.uasset" 135
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/9_Sprite.uasset" 136
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/foreground.uasset" 137
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heartBreak.uasset" 138
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/idleSpritesheet.uasset" 139
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/idleSpritesheet_Sprite_0.uasset" 140
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/idleSpritesheet_Sprite_1.uasset" 141
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/idleSpritesheet_Sprite_2.uasset" 142
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/idleSpritesheet_Sprite_3.uasset" 143
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/idleSpritesheet_Sprite_4.uasset" 144
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/idle.uasset" 145
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_1.uasset" 146
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_1_Sprite.uasset" 147
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_2.uasset" 148
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_2_Sprite.uasset" 149
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_3.uasset" 150
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_3_Sprite.uasset" 151
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_4.uasset" 152
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_4_Sprite.uasset" 153
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_5.uasset" 154
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle_5_Sprite.uasset" 155
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Idle1.uasset" 156
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/runSpriteSheet.uasset" 157
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/runSpriteSheet_Sprite_0.uasset" 158
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/runSpriteSheet_Sprite_1.uasset" 159
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/runSpriteSheet_Sprite_2.uasset" 160
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/runSpriteSheet_Sprite_3.uasset" 161
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run.uasset" 162
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run1crouch_Sprite_1.uasset" 163
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run1crouch_Sprite_2.uasset" 164
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run1crouch_Sprite_3.uasset" 165
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run1crouch1.uasset" 166
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter1.uasset" 167
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart1Sheet.uasset" 168
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart1Sheet_Sprite_0.uasset" 169
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart1Sheet_Sprite_1.uasset" 170
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart1Sheet_Sprite_2.uasset" 171
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart1Sheet1.uasset" 172
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/Heart.uasset" 173
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/HeartSpawner.uasset" 174
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light2-1.uasset" 175
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light2-1_Sprite.uasset" 176
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light2.uasset" 177
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light2_Sprite.uasset" 178
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light3.uasset" 179
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light3_Sprite.uasset" 180
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light4.uasset" 181
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light4_Sprite.uasset" 182
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light5.uasset" 183
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light5_Sprite.uasset" 184
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light6.uasset" 185
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light6_Sprite.uasset" 186
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light7.uasset" 187
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light7_Sprite.uasset" 188
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light8.uasset" 189
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light8_Sprite.uasset" 190
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light9.uasset" 191
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light9_Sprite.uasset" 192
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/light10.uasset" 193
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/light_green_decay.uasset" 194
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 195
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewMaterialFunction.uasset" 196
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/projectile2.uasset" 197
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/radialForce.uasset" 198
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 199
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 200
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 201
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/airMove.uasset" 202
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/airMove_Sprite.uasset" 203
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/air.uasset" 204
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/CROUCH.uasset" 205
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/CROUCH_Sprite.uasset" 206
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/NewPaperFlipbook2.uasset" 207
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/particle_green_Sprite.uasset" 208
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/2DSideScrollerCharacter.uasset" 209
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/dive.uasset" 210
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/foilage1.uasset" 211
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/foilage1_Sprite.uasset" 212
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/foilage2.uasset" 213
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/foilage2_Sprite_2.uasset" 214
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/green.uasset" 215
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/green_Sprite.uasset" 216
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/laser.uasset" 217
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/pixelate.uasset" 218
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/sky-1.uasset" 219
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/sky-1_Sprite.uasset" 220
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/skybox.uasset" 221
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/skybox_Mat.uasset" 222
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/skybox_Sprite.uasset" 223
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/skykkkk.uasset" 224
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/skykkkk_Sprite.uasset" 225
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/tile1.uasset" 226
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/tile1_Sprite.uasset" 227
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/tree.uasset" 228
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/tree_Sprite.uasset" 229
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/white.uasset" 230
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/12b.uasset" 231
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/12b_Sprite.uasset" 232
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/15.uasset" 233
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/15_Sprite.uasset" 234
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloop1.uasset" 235
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloop1_Sprite.uasset" 236
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloop2.uasset" 237
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloop2_Sprite.uasset" 238
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloop3.uasset" 239
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/falloop3_Sprite.uasset" 240
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart1Sheet_Sprite_3.uasset" 241
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart1Peak.uasset" 242
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart2Sheet.uasset" 243
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart2Sheet_Sprite_0.uasset" 244
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart2Sheet_Sprite_1.uasset" 245
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart2Sheet_Sprite_2.uasset" 246
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart2Sheet1.uasset" 247
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet.uasset" 248
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_0.uasset" 249
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_1.uasset" 250
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_10.uasset" 251
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_11.uasset" 252
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_4.uasset" 253
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_6.uasset" 254
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_7.uasset" 255
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_8.uasset" 256
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_9.uasset" 257
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet1.uasset" 258
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_2.uasset" 259
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_3.uasset" 260
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart3Sheet_Sprite_5.uasset" 261
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart4Sheet.uasset" 262
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/idleSpritesheet_Sprite.uasset" 263
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/idleSpritesheet_TileSet.uasset" 264
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Jump1.uasset" 265
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Jump1_Sprite.uasset" 266
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Jump2.uasset" 267
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Jump2_Sprite.uasset" 268
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Jump3.uasset" 269
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Jump3_Sprite.uasset" 270
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Jump4.uasset" 271
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Jump4_Sprite.uasset" 272
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Jump.uasset" 273
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light1.uasset" 274
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/light3-2.uasset" 275
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/heart2Sheet_Sprite_3.uasset" 276
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Peak2.uasset" 277
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run1.uasset" 278
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run1_Sprite.uasset" 279
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run2.uasset" 280
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run2_Sprite.uasset" 281
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run3.uasset" 282
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run3_Sprite.uasset" 283
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run4.uasset" 284
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/Run4_Sprite.uasset" 285
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/Blueprints/MyGameInstance.uasset" 286
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Basic_Wall.uasset" 287
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Pillar_50x500.uasset" 288
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Wall_400x300.uasset" 289
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Wall_400x400.uasset" 290
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Wall_500x500.uasset" 291
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 292
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 293
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Collapse01.uasset" 294
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Collapse02.uasset" 295
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Explosion01.uasset" 296
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Explosion02.uasset" 297
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Fire01.uasset" 298
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Fire_Sparks01.uasset" 299
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Light01.uasset" 300
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Light01_Cue.uasset" 301
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Light02.uasset" 302
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Light02_Cue.uasset" 303
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Smoke01.uasset" 304
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Starter_Birds01.uasset" 305
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Starter_Music01.uasset" 306
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Starter_Wind05.uasset" 307
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Starter_Wind06.uasset" 308
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Steam01.uasset" 309
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Explosion_Cue.uasset" 310
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Burst_M.uasset" 311
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/M_Burst.uasset" 312
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 313
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 314
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 315
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 316
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 317
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 318
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 319
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 320
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/P_Explosion.uasset" 321
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 322
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 323
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 324
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Bush_D.uasset" 325
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Bush_N.uasset" 326
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_Bush.uasset" 327
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Bush.uasset" 328
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Chair_M.uasset" 329
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Chair_N.uasset" 330
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_Chair.uasset" 331
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Couch.uasset" 332
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Glass.uasset" 333
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Door_M.uasset" 334
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Door_N.uasset" 335
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_Door.uasset" 336
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Door.uasset" 337
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 338
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 339
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 340
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 341
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 342
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 343
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_RockMesh_M.uasset" 344
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_RockMesh_N.uasset" 345
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_Rock.uasset" 346
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Rock.uasset" 347
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Shelf_M.uasset" 348
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Shelf_N.uasset" 349
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_Shelf.uasset" 350
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Shelf.uasset" 351
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Basic_Floor.uasset" 352
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Stairs.uasset" 353
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Cone.uasset" 354
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 355
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 356
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Pipe.uasset" 357
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 358
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 359
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Plane.uasset" 360
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Torus.uasset" 361
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Trim.uasset" 362
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 363
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 364
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 365
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Tube.uasset" 366
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 367
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 368
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 369
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 370
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 371
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 372
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 373
+"../../../Engine/Content/BasicShapes/Cone.uasset" 374
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 375
+"../../../Engine/Content/BasicShapes/Cube.uasset" 376
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 377
+"../../../Engine/Content/BasicShapes/Plane.uasset" 378
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 379
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 380
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 381
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 382
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 383
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 384
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 385
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 386
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 387
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 388
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 389
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 390
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 391
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 392
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 393
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 394
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 395
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 396
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 397
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 398
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 399
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 400
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 401
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 402
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 403
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 404
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 405
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 406
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 407
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 408
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 409
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 410
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 411
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 412
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 413
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 414
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 415
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 416
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 417
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 418
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 419
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 420
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 421
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 422
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 423
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 424
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 425
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 426
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 427
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 428
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 429
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 430
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 431
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 432
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 433
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 434
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 435
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 436
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 437
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 438
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 439
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 440
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 441
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 442
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 443
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 444
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 445
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 446
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 447
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 448
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 449
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 450
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 451
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 452
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 453
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 454
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 455
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 456
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 457
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 458
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 459
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 460
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 461
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 462
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 463
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 464
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 465
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 466
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 467
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 468
+"../../../Engine/Content/EngineResources/Black.uasset" 469
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 470
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 471
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 472
+"../../../Engine/Content/EngineSounds/Master.uasset" 473
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 474
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 475
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 476
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 477
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 478
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 479
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 480
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 481
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 482
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 483
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 484
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 485
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 486
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 487
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 488
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 489
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 490
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 491
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 492
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 493
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 494
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 495
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 496
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 497
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 498
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 499
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 500
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 501
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 502
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 503
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 504
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 505
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 506
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 507
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 508
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 509
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 510
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 511
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 512
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 513
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 514
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 515
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 516
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 517
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 518
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 519
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 520
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 521
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 522
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 523
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 524
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 525
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 526
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 527
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 528
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 529
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 530
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 531
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 532
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 533
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 534
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 535
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 536
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 537
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 538
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 539
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 540
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 541
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 542
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 543
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 544
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 545
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 546
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 547
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 548
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 549
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 550
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 551
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 552
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 553
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 554
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 555
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 556
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 557
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 558
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 559
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 560
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 561
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 562
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 563
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 564
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 565
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 566
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 567
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 568
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 569
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 570
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 571
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 572
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 573
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 574
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 575
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 576
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 577
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 578
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 579
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 580
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 581
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 582
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 583
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 584
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 585
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 586
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 587
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 588
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 589
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 590
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 591
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 592
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 593
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 594
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 595
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 596
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/art/NewWorld.umap" 597
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/main.uasset" 598
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 599
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/sky-1.uasset" 600
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/sky-1_Sprite.uasset" 601
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/NewArt/NewBlueprint.uasset" 602
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/platform.uasset" 603
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/PointLight_Blueprint.uasset" 604
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 605
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/tilemap.uasset" 606
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/tilemap_TileSet.uasset" 607
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/map.uasset" 608
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/Maps/2DSideScrollerExampleMap.umap" 609
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/HostGameUI.uasset" 610
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/Games.uasset" 611
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/SearchGames.uasset" 612
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/MainInstance.uasset" 613
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/mainMenuBP.uasset" 614
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/mainMenuPawn.uasset" 615
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/mainMenuGM.uasset" 616
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/Maps/mainmenu.umap" 617
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/map1.uasset" 618
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/2DSideScrollerBP/Blueprints/Maps/NewWorld.umap" 619
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 620
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 621
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 622
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 623
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 624
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 625
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 626
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 627
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 628
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 629
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 630
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 631
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 632
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_AssetPlatform.uasset" 633
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 634
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 635
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 636
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 637
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 638
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 639
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 640
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 641
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Maps/Advanced_Lighting.umap" 642
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 643
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 644
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 645
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 646
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 647
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 648
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 649
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 650
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 651
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 652
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_MacroVariation.uasset" 653
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 654
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 655
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 656
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 657
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 658
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Metal_Copper.uasset" 659
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Statue_M.uasset" 660
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Statue_N.uasset" 661
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 662
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Floor_400x400.uasset" 663
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 664
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Chair.uasset" 665
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_Statue.uasset" 666
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Statue.uasset" 667
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_TableRound_M.uasset" 668
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_TableRound_N.uasset" 669
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_TableRound.uasset" 670
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_TableRound.uasset" 671
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Maps/Minimal_Default.umap" 672
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Fire01_Cue.uasset" 673
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 674
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 675
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 676
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Water_N.uasset" 677
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 678
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 679
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/P_Fire.uasset" 680
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 681
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Smoke01_Cue.uasset" 682
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/P_Smoke.uasset" 683
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 684
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 685
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Spark_Core.uasset" 686
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/M_Spark.uasset" 687
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/P_Sparks.uasset" 688
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 689
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Steam01_Cue.uasset" 690
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/P_Steam_Lit.uasset" 691
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 692
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Lamp_M.uasset" 693
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Lamp_N.uasset" 694
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_Lamp.uasset" 695
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 696
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 697
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 698
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 699
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 700
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 701
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 702
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 703
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 704
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 705
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 706
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 707
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 708
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 709
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 710
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 711
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 712
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 713
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 714
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 715
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 716
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 717
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 718
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 719
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 720
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 721
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 722
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 723
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 724
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 725
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 726
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 727
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 728
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 729
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 730
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 731
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Gradinet_01.uasset" 732
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 733
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 734
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 735
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 736
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 737
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 738
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 739
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 740
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 741
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 742
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 743
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 744
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 745
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 746
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 747
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 748
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 749
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 750
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 751
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 752
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 753
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 754
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Ground_Grass.uasset" 755
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 756
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 757
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 758
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 759
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 760
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Ground_Moss.uasset" 761
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 762
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 763
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Metal_Gold.uasset" 764
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 765
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Metal_Rust.uasset" 766
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 767
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 768
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Metal_Steel.uasset" 769
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 770
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 771
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 772
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 773
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 774
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 775
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 776
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 777
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Rock_Slate.uasset" 778
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 779
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 780
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 781
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 782
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 783
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 784
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 785
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 786
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 787
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 788
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 789
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Tech_Panel.uasset" 790
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Water_Lake.uasset" 791
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Water_M.uasset" 792
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Water_Ocean.uasset" 793
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 794
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 795
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 796
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 797
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 798
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 799
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 800
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 801
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Wood_Oak.uasset" 802
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 803
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 804
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Wood_Pine.uasset" 805
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 806
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 807
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 808
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Wall_400x200.uasset" 809
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 810
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 811
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Collapse_Cue.uasset" 812
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 813
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 814
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 815
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 816
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/MaterialSphere.uasset" 817
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Frame_M.uasset" 818
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Textures/T_Frame_N.uasset" 819
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/Materials/M_Frame.uasset" 820
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_CornerFrame.uasset" 821
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_DoorFrame.uasset" 822
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_GlassWindow.uasset" 823
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_PillarFrame.uasset" 824
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_PillarFrame300.uasset" 825
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Props/SM_WindowFrame.uasset" 826
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Cube.uasset" 827
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 828
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Shapes/Shape_Sphere.uasset" 829
+"../../../../../../Users/bcr2013/Documents/Unreal Projects/fighter/Content/StarterContent/Maps/StarterMap.umap" 830
+"../../../Engine/Content/Maps/Entry.umap" 831
